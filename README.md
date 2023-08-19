@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="20"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="20"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"> <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="20"> 
 
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" height="20">
+
 ### 🌱 Currently interested in
 <img src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&v=beta&t=PrMj5CmpRsqMecZwmySc3LSnQ9jkZNoer75YWJFzJBM" height="20"> <img src="https://repository-images.githubusercontent.com/154739597/90607180-e100-11e9-8642-c65819bec604" height="20"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="20"> <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="20"> 
 
