@@ -9,20 +9,9 @@
 <img src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&v=beta&t=PrMj5CmpRsqMecZwmySc3LSnQ9jkZNoer75YWJFzJBM" height="20">  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="20"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" height="20"> 
 
 ### ✅ Projects I did
-##### ChatGPT-based AI Tool for Marketing ResearchChatGPT-based AI Tool for Marketing Research
-- Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data.
-- Emphasized the importance of review data for its direct reflection of user responses and suitability for adaptability tests.
--  Successfully assessed the model's potential and limitations and optimized through fine-tuning and prompt engineering.
-  
-##### Consumer Sentiment Analysis for Dongseo Food ProductsConsumer Sentiment Analysis for Coffee product
-- Extract, summarize, and analyze consumer sentiments from web-crawled news feedback on Dongseo products.
-- Utilized OpenAI API for keyword extraction, summarization, sentiment analysis, and multi-label classification. Conducted prompt engineering for efficient data classification.
-- Presented insights using Looker Studio and Tableau.
-
-##### Prevention of Illegal Hallyu Content DistributionPrevention of Illegal Hallyu Content Distribution
-- Detect and inhibit the illegal distribution of Korean Hallyu webtoons and movies on international streaming platforms.
-- Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks.
-- Packaged and released as a dedicated library for broader applications.
+- ChatGPT-based AI Tool for Marketing Research: Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
+- Multi Consumer Analysis for Dongseo Food Products: Extracting keyword extraction, summarization, sentiment analysis and multi-label classification all at once in real-time using OpenAI API)
+- Detecting illegal distribution of Korean Hallyu contents on international streaming platforms: Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
 and many more(5)
 
