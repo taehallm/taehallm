@@ -2,6 +2,11 @@
 - Now working on **Language Models** & **Prompt Engineering** related projects 
 
 ### 👀 Languages and tools I use
+
+<img src = "https://assets-global.website-files.com/63e26df0d6659968e46142f7/63e27b40e661321d5278519b_logotype-bb8cd083.svg
+" width="300" /> 
+
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="20">
 
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="20">
@@ -20,12 +25,6 @@ Extracting keyword extraction, summarization, sentiment analysis and multi-label
 Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
 and many more(5)
-
-### 💞️ Companies I love 
-<img src="https://img.shields.io/badge/Y Combinator-F0652F?style=for-the-badge&logo=Y Combinator&logoColor=white" height="20"> 
-
-
-- 📫 How to reach me: taeha.chats@gmail.com
 
 
 <!---
