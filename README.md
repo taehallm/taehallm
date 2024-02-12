@@ -1,17 +1,10 @@
 ## 👋 Hi, I’m Taeha 
 - Now working on **Language Models** & **Prompt Engineering** related projects 
 
-### 👀 Languages and tools I use
+### 👀 Learning cool tools like
 
-<img src = "https://assets-global.website-files.com/63e26df0d6659968e46142f7/63e27b40e661321d5278519b_logotype-bb8cd083.svg
-" width="300" /> 
+<img src = "https://assets-global.website-files.com/63e26df0d6659968e46142f7/63e27b40e661321d5278519b_logotype-bb8cd083.svg" height="30" />  <img src = "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/388/800/original/Brandmark_FullColor_Black_WhiteBolt_(1).png?1655380113" height="30"/> <img src = "https://assets-global.website-files.com/63f416b32254e8eca5d8af54/63f421f67df68f87c12f5206_vellum-logo-light.svg" height="30"/> 
 
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="20">
-
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="20">
-
-<img src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&v=beta&t=PrMj5CmpRsqMecZwmySc3LSnQ9jkZNoer75YWJFzJBM" height="20">  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="20"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" height="20"> 
 
 ### ✅ Projects I did
 - **ChatGPT-based AI Tool for Marketing Research**:
