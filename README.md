@@ -1,8 +1,6 @@
 
 # Hi, I'm Taeha! 👋
 
-![image](https://taehallm.github.io/images/header.png)
-
 ## 🚀 About Me
 I'm AI engineer working on conversational data analytics and practical LLM usecases living in Korea.
 
