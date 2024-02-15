@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm AI engineer working on conversational data analytics and practical LLM usecases living in Korea.
 
-💬 Ask me about practical tips on prompt designing & engineering. I love sharing experiences for free. 
+💬 Ask me about practical tips on prompt designing & engineering. 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
 
