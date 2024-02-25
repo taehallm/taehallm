@@ -13,8 +13,6 @@ I'm AI engineer working on conversational data analytics and practical LLM useca
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taehallm)
 
 
-
-
 ## ✅ Projects I did
 - **Currently working on conversational data analytics tool for CS center**
 
@@ -30,12 +28,7 @@ Leveraged the Bert Multilingual model, fine-tuned for specific content detection
 
 and many more(5)
 
-### Caffeinate me
-
-[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/taehalim)
-
-
-## 🛠 Skills
+## 🛠 Tools
 LLMs
 - ![markdown](https://img.shields.io/badge/Prompt_engineering-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -60,10 +53,5 @@ languages, frameworks, libraries, db, etc.
 hosting & clouds
 - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 - ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
-
-
-
-
 
 
