@@ -61,11 +61,6 @@ hosting & clouds
 - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 - ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-#### Now learning
-- ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) for building lobsters clone
-- <img src = "https://assets-global.website-files.com/63e26df0d6659968e46142f7/63e27b40e661321d5278519b_logotype-bb8cd083.svg" height="30" /> for deploying AI slack bot
-- <img src = "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/388/800/original/Brandmark_FullColor_Black_WhiteBolt_(1).png?1655380113" height="30"/> for fun
-- <img src = "https://assets-global.website-files.com/63f416b32254e8eca5d8af54/63f421f67df68f87c12f5206_vellum-logo-light.svg" height="30"/> for fun
 
 
 
