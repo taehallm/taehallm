@@ -1,7 +1,6 @@
 
-# Hi, I'm Taeha! 👋
+# Hello
 
-## 🚀 About Me
 I'm AI engineer working on conversational data analytics and practical LLM usecases. 
 
 ## 🔗 Links
@@ -25,4 +24,4 @@ Extracting keyword extraction, summarization, sentiment analysis and multi-label
 
 Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
-and many more(5)
+...
