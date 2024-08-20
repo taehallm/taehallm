@@ -26,7 +26,3 @@ Extracting keyword extraction, summarization, sentiment analysis and multi-label
 Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
 and many more(5)
-
-## 🛠 Tools
-LLMs I've worked with: OpenAI, Claude, Mistral, Llama2 (Grok in the future)
-I find deploying models on Modal for quick demo pretty awesome and I also plan to work on Max platform & Mojo.
