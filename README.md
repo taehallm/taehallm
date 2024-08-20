@@ -1,7 +1,9 @@
 
 # Hello
 
-I'm AI engineer working on conversational data analytics and practical LLM usecases. 
+I'm AI engineer @Markr.AI working on conversational data analytics and practical LLM usecases. 
+
+I love using Modal and FastHTML.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
