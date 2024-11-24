@@ -25,7 +25,6 @@ Extracting keyword extraction, summarization, sentiment analysis and multi-label
 
 Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
-
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehalim/)
