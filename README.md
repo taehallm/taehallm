@@ -6,11 +6,11 @@
 - I share tutorials on LangGraph & Modal
 
 
-## 💻 Lectures & Talks
+## 💻 Engagements
 - [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
 - [Tutor] POSCO Group | WX Hackathon 2024
 - [Lecture] Hankook Research | RAG w/ Amazon Bedrock, Fine-tuning OpenAI models, LLM-based Opinion Mining, Basic GPTs, etc.
-- [Talk] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLM for startups
+- [Webinar] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLM for startups
 
 ## ✅ Projects
 - **Currently working on conversational data analytics tool for CS center**
