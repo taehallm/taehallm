@@ -5,12 +5,6 @@
 - I work as an AI engineer at Markr.AI
 - I share tutorials on LangGraph & Modal
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehalim/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taehallm)
 
 ## 💻 Lectures & Talks
 - [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
@@ -31,4 +25,9 @@ Extracting keyword extraction, summarization, sentiment analysis and multi-label
 
 Leveraged the Bert Multilingual model, fine-tuned for specific content detection tasks, then packaged and released as a dedicated library for broader applications.
 
-...
+
+[![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehalim/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taehallm)
