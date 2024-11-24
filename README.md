@@ -5,7 +5,7 @@ I'm AI engineer @Markr.AI working on conversational data analytics and practical
 
 I love playing around w/ 🦜(LLMs). 
 
-Tools: LangGraph, Modal, FastAPI, FastHTML
+Tools I like: LangGraph, Modal, FastAPI, FastHTML
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
@@ -14,6 +14,9 @@ Tools: LangGraph, Modal, FastAPI, FastHTML
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taehallm)
 
+## 💻 Lectures & Talks
+- POSCO Group WX Hackathon Tutor & Lecturer
+- Hankook Research Lecturer
 
 ## ✅ Projects I did
 - **Currently working on conversational data analytics tool for CS center**
