@@ -1,11 +1,9 @@
 
 # Hey
 
-I'm AI engineer @Markr.AI working on conversational data analytics and practical LLM usecases. 
-
-I love playing around w/ 🦜(LLMs). 
-
-Tools I like: LangGraph, Modal, FastAPI, FastHTML
+- I love playing around w/ 🦜(LLMs). 
+- I work as an AI engineer at Markr.AI
+- I share tutorials on LangGraph & Modal
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
@@ -15,10 +13,12 @@ Tools I like: LangGraph, Modal, FastAPI, FastHTML
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taehallm)
 
 ## 💻 Lectures & Talks
-- POSCO Group WX Hackathon Tutor & Lecturer
-- Hankook Research Lecturer
+- [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
+- [Tutor] POSCO Group | WX Hackathon 2024
+- [Lecture] Hankook Research | RAG w/ Amazon Bedrock, Fine-tuning OpenAI models, LLM-based Opinion Mining, Basic GPTs, etc.
+- [Talk] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLM for startups
 
-## ✅ Projects I did
+## ✅ Projects
 - **Currently working on conversational data analytics tool for CS center**
 
 - **ChatGPT-based AI Tool for Marketing Research**:
