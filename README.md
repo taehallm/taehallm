@@ -1,9 +1,11 @@
 
-# Hello
+# Hey
 
 I'm AI engineer @Markr.AI working on conversational data analytics and practical LLM usecases. 
 
-#Modal #LangGraph #FastHTML
+I love playing around w/ 🦜(LLMs). 
+
+Tools: LangGraph, Modal, FastAPI, FastHTML
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taehallm.github.io/)
