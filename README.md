@@ -10,7 +10,7 @@
 - [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
 - [Tutor] POSCO Group | WX Hackathon 2024
 - [Lecture] Hankook Research | RAG w/ Amazon Bedrock, Fine-tuning OpenAI models, LLM-based Opinion Mining, Basic GPTs, etc.
-- [Webinar] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLM for startups
+- [Webinar] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLMs for startups
 
 ## ✅ Projects
 - **Currently working on conversational data analytics tool for CS center**
