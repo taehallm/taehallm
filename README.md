@@ -2,6 +2,7 @@
 - Currently AI engineer at Markr.AI
 
 ## 💻 Engagements
+- [Tutor] POSCO Group | WX Zero-thon 2025
 - [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
 - [Tutor] POSCO Group | WX Hackathon 2024
 - [Lecture] Hankook Research | RAG w/ Amazon Bedrock, Fine-tuning OpenAI models, LLM-based Opinion Mining, Basic GPTs, etc.
