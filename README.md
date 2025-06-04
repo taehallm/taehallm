@@ -1,6 +1,8 @@
 ## Hello
 - Currently AI engineer at Markr.AI
-
+- Love sharing experience developing AI agents
+- Love using Modal, LangGraph, LiveKit, MCP and more.
+ 
 ## 💻 Engagements
 - [Tutor] POSCO Group | WX Zero-thon 2025
 - [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
