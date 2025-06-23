@@ -1,6 +1,6 @@
 ## Hello
 - Currently AI engineer at Markr.AI
-- Love sharing experience developing AI agents
+- I share and teach enterprise on AI agents.
 - Love using Modal, LangGraph, LiveKit, MCP and more.
  
 ## 💻 Engagements
