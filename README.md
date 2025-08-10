@@ -4,9 +4,9 @@
 - Love using Modal, LangGraph, LiveKit, MCP and more.
  
 ## 💻 Engagements
+- [Lecture] POSCO Group | AI Transformation Program 2025 - Business Track (4W) | Context Engineering, Agent, RAG, LangChain, LangGraph, Model Context Protocol, n8n, etc.
 - [Tutor] POSCO Group | WX Zero-thon 2025
-- [Talk] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
-- [Tutor] POSCO Group | WX Hackathon 2024
+- [Talk & Tutor] POSCO Group | WX Hackathon 2024 | Lean AI Hackathon 101
 - [Lecture] Hankook Research | RAG w/ Amazon Bedrock, Fine-tuning OpenAI models, LLM-based Opinion Mining, Basic GPTs, etc.
 - [Webinar] SIP100 FTU x HGU | Business Pizza Hackathon 2023 | Embracing LLMs for startups
 
